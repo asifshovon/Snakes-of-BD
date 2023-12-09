@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">SnakeOfBD</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="title_activity_test">Test</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="intro">Some Snakes can be identified by symptoms. Signs or symptoms of a snake bite may vary depending on the type of snake.</string>
+
+    <string-array name="teeth">
+        <item>Select</item>
+        <item>Clear Sign Two Teeth</item>
+        <item>More than Two Teeth</item>
+    </string-array>
+
+
+    <string-array name="checkVenom">
+        <item>Select</item>
+        <item>Bleeding</item>   <!--cyto-->
+        <item>Droopy Eyelids</item>     <!--neuro-->
+        <item>Headache</item>       <!--hemo-->
+        <item>Nausea</item>     <!--cyto-->
+        <item>Swelling</item>       <!--cyto-->
+        <item>Vomiting</item>       <!--neuro-->
+
+
+    </string-array>
+
+
+    <string-array name="idSnake">
+
+        <item>Select</item>
+        <item>Bleeding</item>   <!--cyto-->
+        <item>Droopy Eyelids</item>     <!--neuro-->
+        <item>Headache</item>       <!--hemo-->
+        <item>Nausea</item>     <!--hemo-->
+        <item>Swelling</item>       <!--cyto-->
+        <item>Vomiting</item>       <!--neuro-->
+    </string-array>
+
+
+    <string-array name="test2">
+        <item>Select</item>
+        <item>Clear Sign Two Teeth</item>
+        <item>More than Two Teeth</item>
+    </string-array>
+
+    <string-array name="test3">
+        <item>Select</item>
+        <item>Bleeding</item>   <!--cyto-->
+        <item>Droopy Eyelids</item>     <!--neuro-->
+        <item>Headache</item>
+    </string-array>
+
+
+    <string-array name="test4">
+        <item>Select</item>
+        <item>Nausea</item>     <!--hemo-->
+        <item>Swelling</item>       <!--cyto-->
+        <item>Vomiting</item>
+
+    </string-array>
+
+
+    <string-array name="neuro">
+
+        <item>Select</item>
+        <item>Abdominal pain</item>
+        0 5 6 8 11
+        <item>Numbness of lips</item>
+        12
+        <item>Difficulty in breathing</item>
+        12
+        <item>Drowsiness</item>
+        0 5 6 7 8 18
+        <item>Abdominal cramps</item>
+        4
+        <item>Painful muscles</item>
+        15
+        <item>Joint aches</item>
+        16
+        <item>Muscle Pain</item>
+        17
+        <item>Coagulopathy</item>
+        20
+        <item>Hypersalivation</item>
+        23
+        <item>Double vision</item>
+        22
+        <item>muscle twitching</item>
+        22
+
+
+    </string-array>
+
+
+    <string-array name="hemo">
+
+        <item>Select</item>
+        <item>Bleeding</item>
+        <item>Hemorrhagic blisters</item>
+        <item>Immediate pain</item>
+        <item>Incoagulable blood</item>
+        <item>Minty taste</item>
+        <item>Pressure Low</item>
+        <item>Spontaneous bleeding</item>
+        <item>Trouble breathing</item>
+        <item>Rapid heart-rate</item>
+
+    </string-array>
+
+
+    <string-array name="cyto">
+
+        <item>Select</item>
+        <item>Labored breathing</item>
+        <item>Rapid heart rate, low pressure</item>
+        <item>Severe pain and tenderness</item>
+        <item>Swelling and pain</item>
+
+    </string-array>
+
+    <string-array name="c1">
+        <item>1</item>
+    </string-array>
+
+    <string-array name="c2">
+        <item>1</item>
+        <item>15</item>
+    </string-array>
+
+
+</resources>

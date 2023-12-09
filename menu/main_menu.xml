@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/snake_icon"
+            android:icon="@drawable/snake_bd"
+            android:title="Snakes of BD" />
+
+        <item
+            android:id="@+id/antivenoms"
+            android:icon="@drawable/antivenom_icon"
+            android:title="Venoms and Antivenoms" />
+
+        <item
+            android:id="@+id/hospital"
+            android:icon="@drawable/hospital_icon"
+            android:title="Hospitals" />
+
+        <item
+            android:id="@+id/rescuer"
+            android:icon="@drawable/rescuers_icon"
+            android:title="Rescuers" />
+        <item
+            android:id="@+id/symptoms"
+            android:icon="@drawable/symptoms_icon"
+            android:title="Identify by Symptoms" />
+        <item
+            android:id="@+id/bitten"
+            android:icon="@drawable/bitten_icon"
+            android:title="Bitten by a snake?" />
+        <item
+            android:id="@+id/media"
+            android:icon="@drawable/media_icon"
+            android:title="Media" />
+        <item
+            android:id="@+id/lens"
+            android:icon="@drawable/lens_icon"
+            android:title="Google Lens" />
+    </group>
+
+        <item android:title="Profile">
+
+            <menu>
+                <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/login"
+                    android:icon="@drawable/login_icon"
+                    android:title="Login" />
+
+
+
+                </group>
+            </menu>
+        </item>
+
+    <group android:checkableBehavior="single">
+        <item android:title="Communicate">
+
+            <menu>
+
+                <item
+                    android:id="@+id/share"
+                    android:icon="@drawable/share_icon"
+                    android:title="Share" />
+
+                <item
+                    android:id="@+id/rate"
+                    android:icon="@drawable/rate_icon"
+                    android:title="About Us" />
+            </menu>
+        </item>
+    </group>
+</menu>
+
+
